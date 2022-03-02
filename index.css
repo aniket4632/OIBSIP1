@@ -1,0 +1,29 @@
+h1{
+    margin-left: 658px;
+    font-size: 51px;
+}
+.con{
+    background-color: #28227e;
+    margin-left: 658px;
+    margin-right: 592px;
+}
+.k{
+    margin: 6px;
+    padding: 26px;
+    font-size: 14px;
+}
+.a{
+    margin-left: 40px;
+    height: 360px;
+}
+body{
+    background-color: antiquewhite;
+}
+#k1{
+    margin-left: 8px;
+    padding: 26px;
+}
+#text{
+    padding: 20px;
+    width: 371px;
+}
